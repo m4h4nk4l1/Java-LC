@@ -3,7 +3,7 @@ package day2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ArrayListExample {
+public class fArrayListExample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Syntax
